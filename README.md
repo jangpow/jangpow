@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**jangpow/jangpow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 데이터분석/AI 공부
 
-Here are some ideas to get you started:
+# 가장 굵은 글자표현
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 아 그렇구만
+
+*텍스트를 기울입니다.*
+
+**굵게만든다**
+
+```jsx
+<html>
+			<head>
+			<meta charset='utf-8'>
+
+```
+
+1. [1,2,3,4,5,6,7]
+2. [32,51235,1231,2]
+    
+    ㅁㅇㅁㅈㅇ.ㅇㅁㅈ
