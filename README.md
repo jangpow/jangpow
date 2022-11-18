@@ -13,7 +13,9 @@
 
 
 ---
-<a href="file:///C:/Users/82105/Downloads/python.svg" target="_blank"><img src="file:///C:/Users/82105/Downloads/python.svg"/></a>
+### Tech Stack
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=Numpy&logoColor=white"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white"> <img src="https://img.shields.io/badge/Simple Analytics-FF4F64?style=for-the-badge&logo=Simple Analytics&logoColor=white">
+<img src="https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=Scikit-learn&logoColor=white"> <img src="https://img.shields.io/badge/Git_hub-181717?style=for-the-badge&logo=Github&logoColor=white">  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
 
 <!--
 **jangpow/jangpow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
