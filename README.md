@@ -4,6 +4,13 @@
 - 👯 Republic of korea army / Platoon leader(2020.03 - 2022.06) 
 - 📫 Chungnam_National Univ / SW academy (2022.07 ~ 2022.11.02)
 
+---
+###certificate
+
+- 사회조사분석사 2급
+- ADSP
+- 빅데이터 분석기사
+
 
 <!--
 **jangpow/jangpow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
