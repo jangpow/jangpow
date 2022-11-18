@@ -5,7 +5,7 @@
 - 📫 Chungnam_National Univ / SW academy (2022.07 ~ 2022.11.02)
 
 ---
-###certificate
+### ertificate
 
 - 사회조사분석사 2급
 - ADSP
