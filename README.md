@@ -2,7 +2,8 @@
 
 - 🔭 Chungnam_National Univ / Consumer Science (2016.03 - 2020.02) 
 - 👯 Republic of korea army / Platoon leader(2020.03 - 2022.06) 
-- 📫 Chungnam_National Univ / SW academy (2022.07 ~ 2022.11.02)
+- 📫 Chungnam_National Univ SW academy / Data&AI (2022.07 ~ 2022.11.02)
+- 💬 KT AIVLE School / DX Consultant Track (2023.01 ~ )
 ---
 ###  👯 Certificate
 
