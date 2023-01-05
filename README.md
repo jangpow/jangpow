@@ -1,15 +1,13 @@
 # 👋 About Me 
 
-- 🔭 Chungnam_National Univ / Consumer life information (2016.03 - 2020.02) 
+- 🔭 Chungnam_National Univ / Consumer Science (2016.03 - 2020.02) 
 - 👯 Republic of korea army / Platoon leader(2020.03 - 2022.06) 
 - 📫 Chungnam_National Univ / SW academy (2022.07 ~ 2022.11.02)
-- 
 ---
 ###  👯 Certificate
 
 - 사회조사분석사 2급
 - ADSP
-- 빅데이터 분석기사
 ---
 ### ⚡ Tech Stack
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=Numpy&logoColor=white"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white"> 
