@@ -3,12 +3,15 @@
 - 🔭 Chungnam_National Univ / Consumer Science (2016.03 - 2020.02) 
 - 👯 Republic of korea army / Platoon leader(2020.03 - 2022.06) 
 - 📫 Chungnam_National Univ SW academy / Data&AI (2022.07 ~ 2022.11.02)
-- 💬 KT AIVLE School / DX Consultant Track (2023.01 ~ )
+- 💬 KT AIVLE School / DX Consultant Track (2023.01.31 ~ 2023.07.18 )
 ---
 ###  👯 Certificate
 
 - 사회조사분석사 2급
 - ADSP
+- 빅데이터분석기사
+- SQLD
+- AICE Associate
 ---
 ### ⚡ Tech Stack
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=Numpy&logoColor=white"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white"> 
@@ -22,6 +25,7 @@
 ### 🔭 Awards
 - 청년소비자이슈 공모전/ 한국소비자연맹회장상(2등) 수상 / 주제: "카 쉐어링의 실태와 문제점" / 주최 기관: 한국소비자연맹
 - SW 프로젝트 경진대회 / 금상(2등) 수상 / 주제: "카공- 공부하기 좋은 카페 추천시스템" / 주최 기관: 충남대학교 SW Academy
+- KT AIVLE School 프로젝트 경진대회 / Excellence상(3등) 수상 / 주제: "실내공기질 데이터를 이용한 화재예측 솔루션" / 주최 기관: KT
 
 ---
 **Notion**  \
