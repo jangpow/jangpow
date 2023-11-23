@@ -29,8 +29,8 @@
 
 ---
 **Notion**  \
-[https://www.notion.so/Dong-Hun-Jang-ee2d465100a44f47a21c42b559b0ba38](https://alike-swan-732.notion.site/Dong-Hun-Jang-ee2d465100a44f47a21c42b559b0ba38)
-<!--
+[[https://www.notion.so/Dong-Hun-Jang-ee2d465100a44f47a21c42b559b0ba38](https://alike-swan-732.notion.site/Dong-Hun-Jang-ee2d465100a44f47a21c42b559b0ba38)
+<!--](https://alike-swan-732.notion.site/Data-Analyst-860e6cd3130a4f2484fea88a65f477dc?pvs=4)
 **jangpow/jangpow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
